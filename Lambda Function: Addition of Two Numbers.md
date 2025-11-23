@@ -25,4 +25,4 @@ print(result)
 <img width="143" height="94" alt="image" src="https://github.com/user-attachments/assets/b40dee53-ac18-40b2-a207-28b5ec9cc20a" />
 
 ## Result
-The python program that defines a lambda function which takes two arguements a and b and returns thier sum.
+The python program that defines a lambda function which takes two arguements a and b and returns thier sum is executed succesfully and verified.
